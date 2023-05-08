@@ -75,4 +75,4 @@ mlflow ui --backend-store-uri sqlite:///mlflow.db
 
 
 
-![images]("images\mlflow1.PNG")
+![imag](https://github.com/Abdul-Jaweed/Experiment-Tracking-with-MLFlow/blob/main/images/mlflow1.PNG)
