@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/Experiment%20Tracking%20with%20MLFlow/mlruns/979578538362533886/f97844470ad64ec499f24746920eab7a/artifacts
+end_time: 1683511432668
+entry_point_name: ''
+experiment_id: '979578538362533886'
+lifecycle_stage: active
+run_id: f97844470ad64ec499f24746920eab7a
+run_name: KNN
+run_uuid: f97844470ad64ec499f24746920eab7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683511428286
+status: 3
+tags: []
+user_id: Admin

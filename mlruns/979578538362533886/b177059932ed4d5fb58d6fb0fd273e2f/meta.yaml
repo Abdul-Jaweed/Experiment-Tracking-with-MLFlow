@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/Experiment%20Tracking%20with%20MLFlow/mlruns/979578538362533886/b177059932ed4d5fb58d6fb0fd273e2f/artifacts
+end_time: 1683511424447
+entry_point_name: ''
+experiment_id: '979578538362533886'
+lifecycle_stage: active
+run_id: b177059932ed4d5fb58d6fb0fd273e2f
+run_name: Random Forest
+run_uuid: b177059932ed4d5fb58d6fb0fd273e2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683511409084
+status: 3
+tags: []
+user_id: Admin

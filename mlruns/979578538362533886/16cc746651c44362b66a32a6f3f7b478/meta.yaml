@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/Experiment%20Tracking%20with%20MLFlow/mlruns/979578538362533886/16cc746651c44362b66a32a6f3f7b478/artifacts
+end_time: 1683511518347
+entry_point_name: ''
+experiment_id: '979578538362533886'
+lifecycle_stage: active
+run_id: 16cc746651c44362b66a32a6f3f7b478
+run_name: Gradient Boosting
+run_uuid: 16cc746651c44362b66a32a6f3f7b478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683511432694
+status: 3
+tags: []
+user_id: Admin

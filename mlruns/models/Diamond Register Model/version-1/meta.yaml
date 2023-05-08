@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1683511707908
+current_stage: Production
+description: ''
+last_updated_timestamp: 1683516382729
+name: Diamond Register Model
+run_id: 68911cc833804efab384fa5826f182bb
+run_link: ''
+source: file:///D:/Projects/Experiment%20Tracking%20with%20MLFlow/mlruns/979578538362533886/68911cc833804efab384fa5826f182bb/artifacts/models
+status: READY
+status_message: null
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/Experiment%20Tracking%20with%20MLFlow/mlruns/979578538362533886/7cccad71ccb144eb8f2f43d4a47f7c12/artifacts
+end_time: 1683511403768
+entry_point_name: ''
+experiment_id: '979578538362533886'
+lifecycle_stage: active
+run_id: 7cccad71ccb144eb8f2f43d4a47f7c12
+run_name: Ridge Regression
+run_uuid: 7cccad71ccb144eb8f2f43d4a47f7c12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683511400156
+status: 3
+tags: []
+user_id: Admin

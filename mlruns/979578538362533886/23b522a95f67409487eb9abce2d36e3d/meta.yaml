@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/Experiment%20Tracking%20with%20MLFlow/mlruns/979578538362533886/23b522a95f67409487eb9abce2d36e3d/artifacts
+end_time: 1683511409048
+entry_point_name: ''
+experiment_id: '979578538362533886'
+lifecycle_stage: active
+run_id: 23b522a95f67409487eb9abce2d36e3d
+run_name: Lasso Regression
+run_uuid: 23b522a95f67409487eb9abce2d36e3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683511403800
+status: 3
+tags: []
+user_id: Admin

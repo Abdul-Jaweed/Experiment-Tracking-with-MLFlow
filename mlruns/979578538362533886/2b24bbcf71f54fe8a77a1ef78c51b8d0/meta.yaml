@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/Experiment%20Tracking%20with%20MLFlow/mlruns/979578538362533886/2b24bbcf71f54fe8a77a1ef78c51b8d0/artifacts
+end_time: 1683511428261
+entry_point_name: ''
+experiment_id: '979578538362533886'
+lifecycle_stage: active
+run_id: 2b24bbcf71f54fe8a77a1ef78c51b8d0
+run_name: Decision Tree
+run_uuid: 2b24bbcf71f54fe8a77a1ef78c51b8d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683511424492
+status: 3
+tags: []
+user_id: Admin

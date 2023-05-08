@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/Experiment%20Tracking%20with%20MLFlow/mlruns/979578538362533886/4d60437538a847f181cb8b56f365f1d9/artifacts
+end_time: 1683511528470
+entry_point_name: ''
+experiment_id: '979578538362533886'
+lifecycle_stage: active
+run_id: 4d60437538a847f181cb8b56f365f1d9
+run_name: AdaBoost
+run_uuid: 4d60437538a847f181cb8b56f365f1d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683511523063
+status: 3
+tags: []
+user_id: Admin
